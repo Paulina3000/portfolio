@@ -1,1 +1,1 @@
-<text>This file is for a publid portfolio</text>
+<text>This file is for a public portfolio</text>
